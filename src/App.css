@@ -1,0 +1,30 @@
+.App {
+  position: relative;
+}
+
+.main {
+  background-color: #f8f9fa;
+}
+
+.main-wrapper {
+  width: 95%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+
+  margin-top: 50px;
+}
+
+.cards__loading {
+  margin: 0 auto;
+}
+
+.cards__season {
+  margin-top: 25px;
+
+  font-size: 24px;
+}
